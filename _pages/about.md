@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,54 +8,74 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
+Biography
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+I am a final-year PhD student with Department of Mehcanical and Energy Engineering at Southern University of Science and Technology (SUSTech), and work with [Prof. Zaiyue Yang](http://faculty.sustech.edu.cn/yangzy3/en/), [Dr. Shibo Chen](https://faculty.sustech.edu.cn/chensb/en/). I visited the Control Systems Technology group, Department of Mechanical Engineering at Eindhoven University of Technology (TU/e), Eindhoven, Netherlands, in 2022, and worked with [Prof. Mauro Salazar](https://scholar.google.ch/citations?user=0Z9zTYwAAAAJ&hl=en). I obtained my BEng in Electrical Engineering from Changsha University of Science and Technology under the supervision of [Prof. Yuanyuan Wang](https://www.csust.edu.cn/dq/info/1083/4065.htm).
 
-Create content & metadata
+Research Interest
 ------
-- Jan 3, 2023, invited as the reviewer for Evolutionary Intelligence.
-Jun 16, 2022, invited as the reviewer for Peer-to-Peer Networking and Applications.
-Apr 10, 2022, awarded the ACC Travel Grant of the 2022 American Control Conference.
-Feb 4, 2022, a journal paper named “Online Distributed Routing Problem of Electric Vehicles” is accepted by IEEE Transactions on Intelligent Transportation Systems.
-Jan 31, 2022, a conference paper named “Incentive-aware Electric Vehicle Routing Problem: a Bi-level Model and a Joint Solution Algorithm” is accepted by the 2022 American Control Conference (ACC) to be held in Atlanta, Georgia, USA.
-Jan 11, 2022, invited as the reviewer for The 2022 IEEE/AIAA Transportation Electrification Conference and Electric Aircraft Technologies Symposium (ITEC+EATS)
-Oct 9, 2021, invited as the reviewer for IEEE Systems Journal (ISJ).
-Apr 22, 2021, a journal paper named “Joint Routing and Charging Problem of Multiple Electric Vehicles: A Fast Optimization Algorithm” is accepted by IEEE Transactions on Intelligent Transportation Systems.
-Apr 2, 2021, a conference paper named “Evacuation Problem Under the Nuclear Leakage Accident” is accepted by the 40th Chinese Control Conference (CCC2021) to be held on July 26-28, 2021 in Shanghai, China.
-Jan 17, 2021, invited as the reviewer for the 33rd Chinese Control and Decison Conference (CCDC 2021).
-Apr 30, 2020, invited as the reviewer for IEEE Transactions on Smart Grid (TSG).
+1. Fast algorithm in joint routing and charging problem of electrical vehicles.
+2. Online routing problem of electrical vehicles.
+3. Electrical vehicles routing problem with time of use electricity price. 
+#4. The optimal routing and charging scheme of solar-powered EVs considering stochastic travel time.
 
 
-**Markdown generator**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
+News
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+* Jun 9, 2023, a journal paper named "_Electric Vehicle Routing Problem with Spatio-temporal Varying Electricity Price and Incentive-aware Customers_" is **accepted** by IEEE Transactions on Intelligent Transportation Systems.
+* Jan 3, 2023, invited as the reviewer for _Evolutionary Intelligence_.
+* Jun 16, 2022, invited as the reviewer for _Peer-to-Peer Networking and Applications_. 
+* Apr 10, 2022, **awarded** the ACC Travel Grant of the 2022 American Control Conference.
+* Feb 4, 2022, a journal paper named "_Online Distributed Routing Problem of Electric Vehicles_" is **accepted** by IEEE Transactions on Intelligent Transportation Systems.
+* Jan 31, 2022, a conference paper named "_Incentive-aware Electric Vehicle Routing Problem: a Bi-level Model and a Joint Solution Algorithm_" is **accepted** by the 2022 American Control Conference (ACC) to be held in Atlanta, Georgia, USA.
+* Jan 11, 2022, invited as the reviewer for The 2022 IEEE/AIAA Transportation Electrification Conference and Electric Aircraft Technologies Symposium (ITEC+EATS)
+* Oct 9, 2021, invited as the reviewer for IEEE Systems Journal (ISJ). 
+* Apr 22, 2021, a journal paper named "_Joint Routing and Charging Problem of Multiple Electric Vehicles: A Fast Optimization Algorithm_" is **accepted** by IEEE Transactions on Intelligent Transportation Systems.
+* Apr 2, 2021, a conference paper named "_Evacuation Problem Under the Nuclear Leakage Accident_" is **accepted** by the 40th Chinese Control Conference (CCC2021) to be held on July 26-28, 2021 in Shanghai, China.
+* Jan 17, 2021, invited as the reviewer for the 33rd Chinese Control and Decison Conference (CCDC 2021).
+* Apr 30, 2020, invited as the reviewer for IEEE Transactions on Smart Grid (TSG). 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
+Journal paper
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+1. **C. Yao**, S. Chen, M. Salazar, and Z. Yang.“Electric Vehicle Routing Problem with Spatio-temporal Varying Electricity Price and Incentive-aware Customers”  IEEE Transactions on Intelligent Transportation Systems, 2023.[[link]](https://ieeexplore.ieee.org/document/10164169) 
+2.  S. Chen, H. Miao, Z. Guo, L. Yang, **C. Yao**, and Z. Yang, "A Truthful Combinatorial Reverse Auction Mechanism For Crowdshipping," in IEEE Internet of Things Journal, 2023.[[link]](https://ieeexplore.ieee.org/document/10131977)
+3.   **C. Yao**, S. Chen, and Z. Yang, "Online Distributed Routing Problem of Electric Vehicles," in IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 9, pp. 16330-16341, Sept. 2022.[[link]](https://ieeexplore.ieee.org/document/9713755)
+4. **C. Yao**, S. Chen, and Z. Yang, "Joint Routing and Charging Problem of Multiple Electric Vehicles: A Fast Optimization Algorithm." in IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 7, pp. 8184-8193, July 2022. [[link]](https://ieeexplore.ieee.org/document/9430759)
+
+
+
+Conference paper
+------
+1.  S. Chen, **C. Yao**, H. Miao, Z. Li and Z. Yang, ”Chance Constrained Routing and Charging Problem of Electric Vehicles,” 2022 China Automation Congress (CAC),
+Xiamen, China, 2022, pp. 3117-3122.[[link]](https://ieeexplore.ieee.org/document/10054938)
+2.  **C. Yao**, S. Chen, M. Salazar, and Z. Yang.“Incentive-aware Electric Vehicle Routing Problem: a Bi-level Model and a Joint Solution Algorithm” The 2022 American Control Conference (ACC) [[link]](https://ieeexplore.ieee.org/abstract/document/9867256)[[slides]](https://drive.google.com/file/d/1Zbs_XFauiDLkBt2a0Hcx1b3zB8M22Tvj/view?usp=sharing)[[video]](https://youtu.be/WDccOxZAuag)
+3. **C. Yao**, S. Chen, and Z. Yang."Evacuation Problem Under the Nuclear Leakage Accident." 2021 40th Chinese Control Conference (CCC), 2021, pp. 1703-1708.[[link]](https://ieeexplore.ieee.org/document/9549934)[[poster]](https://drive.google.com/file/d/1wSui_pT8jHNKOOIKA6uj6N5EAo1MJcAJ/view?usp=sharing)
+
+
+
+
+Submitted Manuscripts
+------
+1. **C. Yao**, S. Chen, and Z. Yang. "Vehicle Routing Problem with Flexible Time Window: A Bi-level Approach." IEEE Internet of Things Journal, under review.
+
+
+
+Teaching
+------
+* Prolegomenon to Robotics<br/>Teaching Assistant, SUSTech: 2019-Spring
+* Optimization Method in Engineering<br/>Teaching Assistant, SUSTech: 2018-Fall
+
+
+Contact
+------
+* Department of Mechanical and Energy Engineering, Southern University of Science and Technology, Shenzhen, 518055, China
+* Email: vulcanyao@gmail.com
+
+
+
+
+
+
