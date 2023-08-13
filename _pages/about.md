@@ -31,7 +31,18 @@ The main configuration file for the site is in the base directory in [_config.ym
 
 Create content & metadata
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+- Jan 3, 2023, invited as the reviewer for Evolutionary Intelligence.
+Jun 16, 2022, invited as the reviewer for Peer-to-Peer Networking and Applications.
+Apr 10, 2022, awarded the ACC Travel Grant of the 2022 American Control Conference.
+Feb 4, 2022, a journal paper named “Online Distributed Routing Problem of Electric Vehicles” is accepted by IEEE Transactions on Intelligent Transportation Systems.
+Jan 31, 2022, a conference paper named “Incentive-aware Electric Vehicle Routing Problem: a Bi-level Model and a Joint Solution Algorithm” is accepted by the 2022 American Control Conference (ACC) to be held in Atlanta, Georgia, USA.
+Jan 11, 2022, invited as the reviewer for The 2022 IEEE/AIAA Transportation Electrification Conference and Electric Aircraft Technologies Symposium (ITEC+EATS)
+Oct 9, 2021, invited as the reviewer for IEEE Systems Journal (ISJ).
+Apr 22, 2021, a journal paper named “Joint Routing and Charging Problem of Multiple Electric Vehicles: A Fast Optimization Algorithm” is accepted by IEEE Transactions on Intelligent Transportation Systems.
+Apr 2, 2021, a conference paper named “Evacuation Problem Under the Nuclear Leakage Accident” is accepted by the 40th Chinese Control Conference (CCC2021) to be held on July 26-28, 2021 in Shanghai, China.
+Jan 17, 2021, invited as the reviewer for the 33rd Chinese Control and Decison Conference (CCDC 2021).
+Apr 30, 2020, invited as the reviewer for IEEE Transactions on Smart Grid (TSG).
+
 
 **Markdown generator**
 
