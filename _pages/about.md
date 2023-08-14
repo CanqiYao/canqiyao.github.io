@@ -40,7 +40,7 @@ Xiamen, China, 2022, pp. 3117-3122.[[link]](https://ieeexplore.ieee.org/document
 
 Submitted Manuscripts
 ------
-1. **C. Yao**, S. Chen, and Z. Yang. "Vehicle Routing Problem with Flexible Time Window: A Bi-level Approach." IEEE Internet of Things Journal, under review.
+1. **C. Yao**, S. Chen, and Z. Yang. "Cooperative Operation of the Fleet Operator and Incentive-aware Customers in an On-demand Delivery System: A Bi-level Approach." IEEE Internet of Things Journal, under review.
 
 
 
