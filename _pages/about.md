@@ -21,10 +21,11 @@ Research Interest
 
 Journal paper
 ------
-1. **C. Yao**, S. Chen, M. Salazar, and Z. Yang, Electric Vehicle Routing Problem with Spatio-temporal Varying Electricity Price and Incentive-aware Customers. IEEE Transactions on Intelligent Transportation Systems, 2023.[[link]](https://ieeexplore.ieee.org/document/10164169) 
-2.  S. Chen, H. Miao, Z. Guo, L. Yang, **C. Yao**, and Z. Yang, A Truthful Combinatorial Reverse Auction Mechanism For Crowdshipping. IEEE Internet of Things Journal, 2023.[[link]](https://ieeexplore.ieee.org/document/10131977)
-3.   **C. Yao**, S. Chen, and Z. Yang, Online Distributed Routing Problem of Electric Vehicles. IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 9, pp. 16330-16341, Sept. 2022.[[link]](https://ieeexplore.ieee.org/document/9713755)
-4. **C. Yao**, S. Chen, and Z. Yang, Joint Routing and Charging Problem of Multiple Electric Vehicles: A Fast Optimization Algorithm. IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 7, pp. 8184-8193, July 2022. [[link]](https://ieeexplore.ieee.org/document/9430759)
+1. **C. Yao**, S. Chen, and Z. Yang, Cooperative Operation of the Fleet Operator and Incentive-aware Customers in an On-demand Delivery System: A Bi-level Approach. IEEE Internet of Things Journal, accepted.
+2.  **C. Yao**, S. Chen, M. Salazar, and Z. Yang, Electric Vehicle Routing Problem with Spatio-temporal Varying Electricity Price and Incentive-aware Customers. IEEE Transactions on Intelligent Transportation Systems, 2023.[[link]](https://ieeexplore.ieee.org/document/10164169) 
+3.  S. Chen, H. Miao, Z. Guo, L. Yang, **C. Yao**, and Z. Yang, A Truthful Combinatorial Reverse Auction Mechanism For Crowdshipping. IEEE Internet of Things Journal, 2023.[[link]](https://ieeexplore.ieee.org/document/10131977)
+4.   **C. Yao**, S. Chen, and Z. Yang, Online Distributed Routing Problem of Electric Vehicles. IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 9, pp. 16330-16341, Sept. 2022.[[link]](https://ieeexplore.ieee.org/document/9713755)
+5. **C. Yao**, S. Chen, and Z. Yang, Joint Routing and Charging Problem of Multiple Electric Vehicles: A Fast Optimization Algorithm. IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 7, pp. 8184-8193, July 2022. [[link]](https://ieeexplore.ieee.org/document/9430759)
 
 
 
@@ -40,8 +41,7 @@ Xiamen, China, 2022, pp. 3117-3122.[[link]](https://ieeexplore.ieee.org/document
 
 Submitted Manuscripts
 ------
-1. **C. Yao**, S. Chen, and Z. Yang, Cooperative Operation of the Fleet Operator and Incentive-aware Customers in an On-demand Delivery System: A Bi-level Approach. IEEE Internet of Things Journal, under review.
-
+To be uploaded!
 
 
 Teaching
@@ -57,7 +57,8 @@ Contact
 
 !!!News
 ------
-* Jun 9, 2023, a journal paper named "_Electric Vehicle Routing Problem with Spatio-temporal Varying Electricity Price and Incentive-aware Customers_" is **accepted** by IEEE Transactions on Intelligent Transportation Systems.
+* Oct 7, 2023, a journal paper named "_ Cooperative Operation of the Fleet Operator and Incentive-aware Customers in an On-demand Delivery System: A Bi-level Approach_" is **accepted** by IEEE Internet of Things Journal.
+*  Jun 9, 2023, a journal paper named "_Electric Vehicle Routing Problem with Spatio-temporal Varying Electricity Price and Incentive-aware Customers_" is **accepted** by IEEE Transactions on Intelligent Transportation Systems.
 * Jan 3, 2023, invited as the reviewer for _Evolutionary Intelligence_.
 * Jun 16, 2022, invited as the reviewer for _Peer-to-Peer Networking and Applications_. 
 * Apr 10, 2022, **awarded** the ACC Travel Grant of the 2022 American Control Conference.
