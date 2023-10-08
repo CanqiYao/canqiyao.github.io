@@ -57,7 +57,7 @@ Contact
 
 !!!News
 ------
-* Oct 7, 2023, a journal paper named "_ Cooperative Operation of the Fleet Operator and Incentive-aware Customers in an On-demand Delivery System: A Bi-level Approach_" is **accepted** by IEEE Internet of Things Journal.
+* Oct 7, 2023, a journal paper named "_Cooperative Operation of the Fleet Operator and Incentive-aware Customers in an On-demand Delivery System: A Bi-level Approach_" is **accepted** by IEEE Internet of Things Journal.
 *  Jun 9, 2023, a journal paper named "_Electric Vehicle Routing Problem with Spatio-temporal Varying Electricity Price and Incentive-aware Customers_" is **accepted** by IEEE Transactions on Intelligent Transportation Systems.
 * Jan 3, 2023, invited as the reviewer for _Evolutionary Intelligence_.
 * Jun 16, 2022, invited as the reviewer for _Peer-to-Peer Networking and Applications_. 
