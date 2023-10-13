@@ -21,7 +21,7 @@ Research Interest
 
 Journal paper
 ------
-1. **C. Yao**, S. Chen, and Z. Yang, Cooperative Operation of the Fleet Operator and Incentive-aware Customers in an On-demand Delivery System: A Bi-level Approach. IEEE Internet of Things Journal, accepted.
+1. **C. Yao**, S. Chen, and Z. Yang, Cooperative Operation of the Fleet Operator and Incentive-aware Customers in an On-demand Delivery System: A Bi-level Approach. IEEE Internet of Things Journal, 2023.[[link]](https://ieeexplore.ieee.org/document/10283949/keywords#keywords) 
 2.  **C. Yao**, S. Chen, M. Salazar, and Z. Yang, Electric Vehicle Routing Problem with Spatio-temporal Varying Electricity Price and Incentive-aware Customers. IEEE Transactions on Intelligent Transportation Systems, 2023.[[link]](https://ieeexplore.ieee.org/document/10164169) 
 3.  S. Chen, H. Miao, Z. Guo, L. Yang, **C. Yao**, and Z. Yang, A Truthful Combinatorial Reverse Auction Mechanism For Crowdshipping. IEEE Internet of Things Journal, 2023.[[link]](https://ieeexplore.ieee.org/document/10131977)
 4.   **C. Yao**, S. Chen, and Z. Yang, Online Distributed Routing Problem of Electric Vehicles. IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 9, pp. 16330-16341, Sept. 2022.[[link]](https://ieeexplore.ieee.org/document/9713755)
