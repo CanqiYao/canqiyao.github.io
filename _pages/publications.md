@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
 Journal paper
 ------
 1. **C. Yao**, S. Chen, and Z. Yang, Cooperative Operation of the Fleet Operator and Incentive-aware Customers in an On-demand Delivery System: A Bi-level Approach. IEEE Internet of Things Journal, 2023.[[link]](https://ieeexplore.ieee.org/document/10283949) 
@@ -21,3 +20,11 @@ Conference paper
 Xiamen, China, 2022, pp. 3117-3122.[[link]](https://ieeexplore.ieee.org/document/10054938)
 2.  **C. Yao**, S. Chen, M. Salazar, and Z. Yang, Incentive-aware Electric Vehicle Routing Problem: a Bi-level Model and a Joint Solution Algorithm. 2022 American Control Conference (ACC), Atlanta, GA, USA, 2022, pp. 4662-4667. [[link]](https://ieeexplore.ieee.org/abstract/document/9867256)[[slides]](https://drive.google.com/file/d/1Zbs_XFauiDLkBt2a0Hcx1b3zB8M22Tvj/view?usp=sharing)[[video]](https://youtu.be/WDccOxZAuag)
 3. **C. Yao**, S. Chen, and Z. Yang, Evacuation Problem Under the Nuclear Leakage Accident. 2021 40th Chinese Control Conference (CCC), Shanghai, China, 2021, pp. 1703-1708.[[link]](https://ieeexplore.ieee.org/document/9549934)[[poster]](https://drive.google.com/file/d/1wSui_pT8jHNKOOIKA6uj6N5EAo1MJcAJ/view?usp=sharing)
+
+
+
+
+Submitted Manuscripts
+------
+To be uploaded!
+
