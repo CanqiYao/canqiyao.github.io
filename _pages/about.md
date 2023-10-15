@@ -20,16 +20,6 @@ Research Interest
 4. The optimal routing and charging scheme of solar-powered EVs considering stochastic travel time.
 
 
-Teaching
-------
-* Prolegomenon to Robotics<br/>Teaching Assistant, SUSTech: 2019-Spring
-* Optimization Method in Engineering<br/>Teaching Assistant, SUSTech: 2018-Fall
-
-
-Contact
-------
-* Department of Mechanical and Energy Engineering, Southern University of Science and Technology, Shenzhen, 518055, China
-* Email: vulcanyao@gmail.com
 
 !!!News
 ------
@@ -46,6 +36,12 @@ Contact
 * Apr 2, 2021, a conference paper named "_Evacuation Problem Under the Nuclear Leakage Accident_" is **accepted** by the 40th Chinese Control Conference (CCC2021) to be held on July 26-28, 2021 in Shanghai, China.
 * Jan 17, 2021, invited as the reviewer for the 33rd Chinese Control and Decison Conference (CCDC 2021).
 * Apr 30, 2020, invited as the reviewer for IEEE Transactions on Smart Grid (TSG). 
+
+
+Contact
+------
+* Department of Mechanical and Energy Engineering, Southern University of Science and Technology, Shenzhen, 518055, China
+* Email: vulcanyao@gmail.com
 
 
 _Updated by C. Yao on Oct 15, 2023._
