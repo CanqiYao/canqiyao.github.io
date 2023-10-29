@@ -41,7 +41,7 @@ Research Interest
 Contact
 ------
 * Department of Mechanical and Energy Engineering, Southern University of Science and Technology, Shenzhen, 518055, China
-* Email: vulcanyao@gmail.com
+* Email: vulcanyao@gmail.com;yaocq2018@mail.sustech.edu.cn
 
 
 _Updated by C. Yao on Oct 15, 2023._
