@@ -44,7 +44,7 @@ Contact
 * Email: vulcanyao@gmail.com;yaocq2018@mail.sustech.edu.cn
 
 
-_Updated by C. Yao on Oct 15, 2023._
+_Last update: Oct 2023_
 
 
 
