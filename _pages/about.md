@@ -20,9 +20,9 @@ Research Interest
 4. The optimal routing and charging scheme of solar-powered EVs considering stochastic travel time.
 
 
-
 !!!News
 ------
+* Jan 22, 2024, invited as the reviewer for _Expert Systems With Applications_. 
 * Oct 7, 2023, a journal paper named "_Cooperative Operation of the Fleet Operator and Incentive-aware Customers in an On-demand Delivery System: A Bi-level Approach_" is **accepted** by IEEE Internet of Things Journal.
 *  Jun 9, 2023, a journal paper named "_Electric Vehicle Routing Problem with Spatio-temporal Varying Electricity Price and Incentive-aware Customers_" is **accepted** by IEEE Transactions on Intelligent Transportation Systems.
 * Jan 3, 2023, invited as the reviewer for _Evolutionary Intelligence_.
@@ -44,7 +44,7 @@ Contact
 * Email: vulcanyao@gmail.com;yaocq2018@mail.sustech.edu.cn
 
 
-_Last update: Oct 2023_
+_Last update: Jan 2024_
 
 
 
