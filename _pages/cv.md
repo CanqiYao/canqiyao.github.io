@@ -11,7 +11,7 @@ redirect_from:
 
 Employment
 ======
-* Research assistant, School of Science and Enginerring, The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), Shenzhen, China, Jan. 2024 - Present.
+* Research associate, School of Science and Enginerring, The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), Shenzhen, China, Jan. 2024 - Present.
 
 
 Education
