@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Useful Optimization-related Tools"
+title: "Useful Tools"
 permalink: /Tips/
 author_profile: true
 ---
