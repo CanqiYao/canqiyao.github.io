@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Mathematical Tools for Research"
+title: "Useful Optimization-related Tools"
 permalink: /Tips/
 author_profile: true
 ---
