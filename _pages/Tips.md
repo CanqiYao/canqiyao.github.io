@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 # Applications
-## Power System 
+## Power Systems
 
 
-## Transportation System
+## Transportation Systems
 
 
 # Theoretical Methods
