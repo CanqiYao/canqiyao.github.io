@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Tips"
+title: "Mathematical Tools for Research"
 permalink: /Tips/
 author_profile: true
 ---
