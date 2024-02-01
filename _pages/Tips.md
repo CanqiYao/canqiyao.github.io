@@ -6,6 +6,6 @@ author_profile: true
 ---
 
 
-** How to linearize $c|x|$?
+* How to linearize $c|x|$?
 [Optimization with absolute values.](https://optimization.cbe.cornell.edu/index.php?title=Optimization_with_absolute_values)
 
