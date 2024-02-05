@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Useful Tools"
-permalink: /B/
+permalink: /Blogs/
 author_profile: true
 ---
 
