@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Useful Tools"
-permalink: /Tips/
+permalink: /B/
 author_profile: true
 ---
 
@@ -10,4 +10,7 @@ author_profile: true
 ### Linearization Approaches 
 * How to linearize $c|x|$?
 [Optimization with absolute values.](https://optimization.cbe.cornell.edu/index.php?title=Optimization_with_absolute_values)
+
+* Linearization of bilinear terms.
+[McCormick envelopes](https://optimization.cbe.cornell.edu/index.php?title=McCormick_envelopes)
 
