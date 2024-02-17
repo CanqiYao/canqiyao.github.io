@@ -12,6 +12,10 @@ Biography
 ------
 I am a research associate at the School of Science and Enginerring, The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), and work with [Prof. Shunbo Lei](https://mypage.cuhk.edu.cn/academics/leishunbo/). I will be a postdoctoral fellow at The Hong Kong Polytechnic University (PolyU) supported by the PolyU Postdoc Matching Fund Scheme, and work with [Prof. Kai Pan](https://sites.google.com/view/kaipanuf/home?authuser=0). I received the PhD degree from Harbin Institute of Technology (HIT), which is a joint PhD program with Southern University of Science and Technology (SUSTech), under the supervision of [Prof. Zaiyue Yang](https://scholar.google.com/citations?user=u0HM84UAAAAJ&hl=en). During my doctoral studies, I worked closely with [Prof. Shibo Chen](https://ieeexplore.ieee.org/author/37085338569). I visited the Control Systems Technology group, Department of Mechanical Engineering at Eindhoven University of Technology (TU/e), Eindhoven, Netherlands, in 2022, and worked with [Prof. Mauro Salazar](https://scholar.google.ch/citations?user=0Z9zTYwAAAAJ&hl=en). I obtained my BEng in Electrical Engineering from Changsha University of Science and Technology under the supervision of [Prof. Yuanyuan Wang](https://orcid.org/0000-0002-9575-3712).
 
+My research interests include electric transportation systems, and resilient power systems, with an emphasis on joint planning and operation of electric vehicle fleets.
+
+I have served as a reviewer for the IEEE Transactions on Smart Grid, IEEE Systems Journal, Expert Systems With Applications, Peer-to-Peer Networking and Applications, and other IEEE conferences.
+
 Research Interest
 ------
 1. Fast algorithm in joint routing and charging problem of electrical vehicles.
