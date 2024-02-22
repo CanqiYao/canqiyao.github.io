@@ -5,7 +5,7 @@ permalink: /Blogs/
 author_profile: true
 ---
 
-### Dadaset
+### Dataset
 * [Distribution system restoration.](https://github.com/dvu4/distribution-system-restorattion/tree/main)
 * [IEEE PES Test Feeder data](https://cmte.ieee.org/pes-testfeeders/resources/) includes 13-bus feeder to 123-bus feeder.
 
@@ -13,7 +13,7 @@ author_profile: true
 
 ### Power Systems
 ### Transportation Systems
-* [Traffic assignment problem implementation with Julia](https://github.com/chkwon/TrafficAssignment.jl)
+* (Code)[Traffic assignment problem implementation with Julia](https://github.com/chkwon/TrafficAssignment.jl)
 
 
 
