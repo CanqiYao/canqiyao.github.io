@@ -5,19 +5,20 @@ permalink: /Blogs/
 author_profile: true
 ---
 
-### Dataset
-* [Distribution system restoration.](https://github.com/dvu4/distribution-system-restorattion/tree/main)
+### Code-related tips
+## Power Systems
+* [Distribution system restoration data.](https://github.com/dvu4/distribution-system-restorattion/tree/main)
 * [IEEE PES Test Feeder data](https://cmte.ieee.org/pes-testfeeders/resources/) includes 13-bus feeder to 123-bus feeder.
 
-
-
-### Power Systems
-### Transportation Systems
-* (Code)[Traffic assignment problem implementation with Julia](https://github.com/chkwon/TrafficAssignment.jl)
+## Transportation Systems
+* [Traffic assignment problem implementation with Julia](https://github.com/chkwon/TrafficAssignment.jl)
 
 
 
-### Linearization Approaches 
+
+
+### Theory-related tips
+## Linearization Approaches 
 * How to linearize $c|x|$?
 [Optimization with absolute values.](https://optimization.cbe.cornell.edu/index.php?title=Optimization_with_absolute_values)
 
