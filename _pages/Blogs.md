@@ -13,7 +13,7 @@ author_profile: true
 
 ### Power Systems
 ### Transportation Systems
-* [Traffic assignment problem implementation with Julia]([https://cmte.ieee.org/pes-testfeeders/resources/](https://github.com/chkwon/TrafficAssignment.jl))
+* [Traffic assignment problem implementation with Julia](https://github.com/chkwon/TrafficAssignment.jl)
 
 
 
