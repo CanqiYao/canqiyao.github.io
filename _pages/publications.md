@@ -9,8 +9,8 @@ Journal paper
 1. **C. Yao**, S. Chen, and Z. Yang, Cooperative Operation of the Fleet Operator and Incentive-aware Customers in an On-demand Delivery System: A Bi-level Approach. IEEE Internet of Things Journal, 2023.[[link]](https://ieeexplore.ieee.org/document/10283949) 
 2.  **C. Yao**, S. Chen, M. Salazar, and Z. Yang, Electric Vehicle Routing Problem with Spatio-temporal Varying Electricity Price and Incentive-aware Customers. IEEE Transactions on Intelligent Transportation Systems, 2023.[[link]](https://ieeexplore.ieee.org/document/10164169) 
 3.  S. Chen, H. Miao, Z. Guo, L. Yang, **C. Yao**, and Z. Yang, A Truthful Combinatorial Reverse Auction Mechanism For Crowdshipping. IEEE Internet of Things Journal, 2023.[[link]](https://ieeexplore.ieee.org/document/10131977)
-4.   **C. Yao**, S. Chen, and Z. Yang, Online Distributed Routing Problem of Electric Vehicles. IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 9, pp. 16330-16341, Sept. 2022.[[link]](https://ieeexplore.ieee.org/document/9713755)
-5. **C. Yao**, S. Chen, and Z. Yang, Joint Routing and Charging Problem of Multiple Electric Vehicles: A Fast Optimization Algorithm. IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 7, pp. 8184-8193, July 2022. [[link]](https://ieeexplore.ieee.org/document/9430759)
+4.   **C. Yao**, S. Chen, and Z. Yang, Online Distributed Routing Problem of Electric Vehicles. IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 9, pp. 16330-16341, Sept. 2022.[[link]](https://ieeexplore.ieee.org/document/9713755)[[SUSTech News]](https://coe.sustech.edu.cn/en/News-detail-id-541.html)[[科技快报]](https://www.kjkxun.com/kb/32074.html)
+5. **C. Yao**, S. Chen, and Z. Yang, Joint Routing and Charging Problem of Multiple Electric Vehicles: A Fast Optimization Algorithm. IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 7, pp. 8184-8193, July 2022. [[link]](https://ieeexplore.ieee.org/document/9430759)[[SUSTech News]](https://coe.sustech.edu.cn/en/News-detail-id-541.html)[[科技快报]](https://www.kjkxun.com/kb/32074.html)
 
 
 
