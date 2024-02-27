@@ -25,3 +25,7 @@ author_profile: true
 * Linearization of bilinear terms $xy$ where $x,y\in \mathbb{R}$.
 [McCormick envelopes](https://optimization.cbe.cornell.edu/index.php?title=McCormick_envelopes)
 
+### (Distributionally) Robust Optimziation
+* [Robust Stochastic Optimization Made Easy](https://github.com/XiongPengNUS/rsome)
+
+
