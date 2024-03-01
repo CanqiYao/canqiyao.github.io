@@ -11,7 +11,8 @@ redirect_from:
 
 Employment
 ======
-* Research associate, School of Science and Enginerring, The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), Shenzhen, China, Jan. 2024 - Present.
+* Postdoctoral Fellow, Department of Logistics and Maritime Studies, The Hong Kong Polytechnic University, Hong Kong, China, Mar. 2024 - Present.
+* Research Associate, School of Science and Enginerring, The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), Shenzhen, China, Jan. 2024 - Feb. 2024.
 
 
 Education
