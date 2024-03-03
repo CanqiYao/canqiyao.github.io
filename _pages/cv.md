@@ -25,4 +25,4 @@ Education
 
 
 
-[[CV]](https://drive.google.com/file/d/1E6scooxp6PvMVqXhOSP-zhtGnmKI3L5e/view?usp=sharing)
+[[CV]](https://www.dropbox.com/scl/fi/6gsx0yp52sfz8a1hgwxgd/CV_CanqiYao_2024-2.pdf?rlkey=dpu2vojvp628wodt65m1nkbrj&dl=0)
