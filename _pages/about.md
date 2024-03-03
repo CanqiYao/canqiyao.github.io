@@ -45,7 +45,7 @@ Research Interest
 Contact
 ------
 * Department of Mechanical and Energy Engineering, Southern University of Science and Technology, Shenzhen, 518055, China
-* Email: vulcanyao@gmail.com;canqi.yao@polyu.edu.hk
+* Email: vulcanyao@gmail.com; canqi.yao@polyu.edu.hk
 
 
 _Last update: Jan 2024_
