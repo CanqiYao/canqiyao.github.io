@@ -83,12 +83,12 @@ author:
   name             : "Canqi Yao"
   avatar           : "profile.jpeg"
   bio              : "Postdoctoral fellow at PolyU"
-  location         : "Shenzhen, China"
+  # location         : "Hong Kong"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=lV7z0WEAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net"
   uri              :
   bitbucket        :
   codepen          :
