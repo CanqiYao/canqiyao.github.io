@@ -14,7 +14,7 @@ I am a postdoctoral fellow at The Hong Kong Polytechnic University (PolyU) suppo
 
 My research interests include electric transportation systems, and resilient power systems, with an emphasis on joint planning and operation of electric vehicle fleets.
 
-I have served as a reviewer for the IEEE Transactions on Smart Grid, IEEE Systems Journal, Expert Systems With Applications, Peer-to-Peer Networking and Applications, and other IEEE conferences.
+I have served as a reviewer for the IEEE Transactions on Smart Grid, IEEE Transactions on Power Systems, IEEE Systems Journal, Expert Systems With Applications, Peer-to-Peer Networking and Applications, and other IEEE conferences.
 
 Research Interest
 ------
@@ -26,6 +26,7 @@ Research Interest
 
 !!!News
 ------
+* Mar 9, 2024, invited as the reviewer for _IEEE Transactions on Power Systems_. 
 * Jan 22, 2024, invited as the reviewer for _Expert Systems With Applications_. 
 * Oct 7, 2023, a journal paper named "_Cooperative Operation of the Fleet Operator and Incentive-aware Customers in an On-demand Delivery System: A Bi-level Approach_" is **accepted** by IEEE Internet of Things Journal.
 *  Jun 9, 2023, a journal paper named "_Electric Vehicle Routing Problem with Spatio-temporal Varying Electricity Price and Incentive-aware Customers_" is **accepted** by IEEE Transactions on Intelligent Transportation Systems.
@@ -48,7 +49,7 @@ Contact
 * Email: vulcanyao@gmail.com; canqi.yao@polyu.edu.hk
 
 
-_Last update: Jan 2024_
+_Last update: Mar 2024_
 
 
 
