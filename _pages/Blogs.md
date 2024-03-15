@@ -27,7 +27,7 @@ author_profile: true
 
 ### (Distributionally) Robust Optimziation
 * [Robust Stochastic Optimization Made Easy](https://github.com/XiongPengNUS/rsome)
-* [Standard Forms of SOCP]([https://github.com/XiongPengNUS/rsome](https://inst.eecs.berkeley.edu/~ee127/sp21/livebook/l_socp_soc.html)https://inst.eecs.berkeley.edu/~ee127/sp21/livebook/l_socp_soc.html)
+* [Standard Forms of SOCP](https://inst.eecs.berkeley.edu/~ee127/sp21/livebook/l_socp_soc.html)
 
 
 
