@@ -26,6 +26,7 @@ Research Interest
 
 !!!News
 ------
+* Mar 21, 2024, invited as the reviewer for _IEEE Transactions on Intelligent Transportation Systems_. 
 * Mar 9, 2024, invited as the reviewer for _IEEE Transactions on Power Systems_. 
 * Jan 22, 2024, invited as the reviewer for _Expert Systems With Applications_. 
 * Oct 7, 2023, a journal paper named "_Cooperative Operation of the Fleet Operator and Incentive-aware Customers in an On-demand Delivery System: A Bi-level Approach_" is **accepted** by IEEE Internet of Things Journal.
