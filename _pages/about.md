@@ -53,5 +53,9 @@ Contact
 _Last update: Mar 2024_
 
 
+<a href="https://www.easycounter.com/">
+<img src="https://www.easycounter.com/counter.php?canqi"
+border="0" alt="Free Web Counters"></a>
+<br><a href="https://www.easycounter.com/">Free Web Counter</a>
 
 
