@@ -46,16 +46,18 @@ Research Interest
 ## Service
 ### Journal Reviewer
 * IEEE Transactions on Smart Grid (TSG)
-– IEEE Transactions on Power Systems (TPWRS)
-– IEEE Transactions on Intelligent Transportation Systems (TITS)
-– IEEE Systems Journal (ISJ)
-– Expert Systems With Applications (ESWA)
-– Peer‑to‑Peer Networking and Applications
-– Evolutionary Intelligenc
+* IEEE Transactions on Power Systems (TPWRS)
+* IEEE Transactions on Intelligent Transportation Systems (TITS)
+* IEEE Systems Journal (ISJ)
+* Expert Systems With Applications (ESWA)
+* Peer‑to‑Peer Networking and Applications
+* Evolutionary Intelligenc
 
 
 ### Conference Reviewer
-
+* The 2023 IEEE Transportation Electrification Conference (ITEC 2023)
+* The 2022 IEEE/AIAA Transportation Electrification Conference and Electric Aircraft Technologies Symposium (ITEC+EATS)
+* The 33rd Chinese Control and Decison Conference (CCDC 2021)
 
 
 Contact
