@@ -45,6 +45,7 @@ I have served as a reviewer for the IEEE Transactions on Smart Grid, IEEE Transa
 ### Journal Reviewer
 * IEEE Transactions on Smart Grid (TSG)
 * IEEE Transactions on Power Systems (TPWRS)
+* IEEE Transactions on Sustainable Energy (TSTE)
 * IEEE Transactions on Intelligent Transportation Systems (TITS)
 * IEEE Systems Journal (ISJ)
 * Expert Systems With Applications (ESWA)
