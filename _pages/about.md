@@ -13,7 +13,7 @@ I am a postdoctoral fellow at The Hong Kong Polytechnic University (PolyU) suppo
 
 My research interests include electric transportation systems, and resilient power systems, with an emphasis on joint planning and operation of electric vehicle fleets.
 
-I have served as a reviewer for the IEEE Transactions on Smart Grid, IEEE Transactions on Power Systems, IEEE Transactions on Intelligent Transportation Systems, IEEE Systems Journal, Expert Systems With Applications, Peer-to-Peer Networking and Applications, and other IEEE conferences.
+I have served as a reviewer for the IEEE Transactions on Smart Grid, IEEE Transactions on Power Systems, IEEE Transactions on Sustainable Energy, IEEE Transactions on Intelligent Transportation Systems, IEEE Systems Journal, Expert Systems With Applications, Peer-to-Peer Networking and Applications, and other IEEE conferences.
 
 ## Research Interest
 1. Fast algorithm in joint routing and charging problem of electrical vehicles.
