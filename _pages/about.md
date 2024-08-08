@@ -23,6 +23,7 @@ I have served as a reviewer for the IEEE Transactions on Smart Grid, IEEE Transa
 
 
 ## !!!News
+* Aug 8, 2024, invited as the reviewer for _Transportation Research Part E: Logistics and Transportation Review_. 
 * Jun 10, 2024, invited as the reviewer for _Optimization and Engineering_. 
 * Mar 29, 2024, invited as the reviewer for _IEEE Transactions on Sustainable Energy_. 
 * Mar 21, 2024, invited as the reviewer for _IEEE Transactions on Intelligent Transportation Systems_. 
@@ -49,6 +50,7 @@ I have served as a reviewer for the IEEE Transactions on Smart Grid, IEEE Transa
 * IEEE Transactions on Sustainable Energy (TSTE)
 * IEEE Transactions on Intelligent Transportation Systems (TITS)
 * IEEE Systems Journal (ISJ)
+* Transportation Research Part E: Logistics and Transportation Review (TRE)
 * Expert Systems With Applications (ESWA)
 * Peer‑to‑Peer Networking and Applications
 * Optimization and Engineering
