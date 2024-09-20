@@ -54,7 +54,7 @@ I have served as a reviewer for the IEEE Transactions on Smart Grid, IEEE Transa
 * Expert Systems With Applications (ESWA)
 * Peer‑to‑Peer Networking and Applications
 * Optimization and Engineering
-* Evolutionary Intelligenc
+* Evolutionary Intelligence
 
 
 ### Conference Reviewer
