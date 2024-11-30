@@ -26,5 +26,7 @@ Xiamen, China, 2022, pp. 3117-3122.[[link]](https://ieeexplore.ieee.org/document
 
 Submitted Manuscripts
 ------
-To be uploaded!
+1.  **C. Yao**, J. Cheng, K. Pan. Data‑Driven Planning for Wireless Charging Lanes, IEEE Transactions on Smart Grid, under review.
+2.  Z. He, Y. Tian, H Miao, **C. Yao**, and Z. Yang. Electric Vehicle Routing Problem with Capacitated Charging Stations and Dynamic Electricity Prices, IEEE Internet of Things Journal, under review.
+3.  M. Xu, S. Lei, **C. Yao**, W. Wu, C. Ma, C. Wang. Network Topology Flexibility‑Aware Robust Electricity Trading for Distribution System Survivability Enhancement, IEEE Transactions on Smart Grid, under review.
 
