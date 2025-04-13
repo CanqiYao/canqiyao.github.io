@@ -23,8 +23,7 @@ I have served as a reviewer for the IEEE Transactions on Smart Grid, IEEE Transa
 
 
 ## !!!News
-* Apr 13, 2025, a journal paper named "_Data-Driven Planning for Wireless Charging Lanes_" is **accepted** by IEEE Transactions on Smart
-Grid.
+* Apr 13, 2025, a journal paper named "_Data-Driven Planning for Wireless Charging Lanes_" is **accepted** by IEEE Transactions on Smart Grid.
 * Aug 8, 2024, invited as the reviewer for _Transportation Research Part E: Logistics and Transportation Review_. 
 * Jun 10, 2024, invited as the reviewer for _Optimization and Engineering_. 
 * Mar 29, 2024, invited as the reviewer for _IEEE Transactions on Sustainable Energy_. 
