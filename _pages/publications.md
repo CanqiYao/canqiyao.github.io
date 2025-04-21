@@ -6,7 +6,7 @@ author_profile: true
 ---
 Selected paper
 ------
-1. **C. Yao**, J. Cheng, K. Pan. Data‑Driven Planning for Wireless Charging Lanes, IEEE Transactions on Smart Grid, 2025.
+1. **C. Yao**, J. Cheng, K. Pan. Data‑Driven Planning for Wireless Charging Lanes, IEEE Transactions on Smart Grid, 2025.[[link]](https://ieeexplore.ieee.org/document/10970087)
 2. **C. Yao**, S. Chen, and Z. Yang, Cooperative Operation of the Fleet Operator and Incentive‑aware Customers in an On‑demand Delivery System: A Bi‑level Approach. IEEE Internet of Things Journal, vol. 11, no. 6, pp. 9668‑9680, Mar. 2024. [[link]](https://ieeexplore.ieee.org/document/10283949)[[Code]](https://github.com/CanqiYao/Cooperative-Operation-of-the-Fleet-Operator-and-Incentive-aware-Customers)
 3. **C. Yao**, S. Chen, M. Salazar, and Z. Yang, Joint Routing and Charging Problem of Electric Vehicles With Incentive‑Aware Customers Considering Spatio‑Temporal Charging Prices. IEEE Transactions on Intelligent Transportation Systems, vol. 24, no. 11, pp. 12215‑12226, Nov. 2023.[[link]](https://ieeexplore.ieee.org/document/10164169)
 4. **C. Yao**, S. Chen, and Z. Yang, Online Distributed Routing Problem of Electric Vehicles. IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 9, pp. 16330-16341, Sept. 2022.[[link]](https://ieeexplore.ieee.org/document/9713755)[[SUSTech News]](https://coe.sustech.edu.cn/en/News-detail-id-541.html)[[科技快报]](https://www.kjkxun.com/kb/32074.html)
