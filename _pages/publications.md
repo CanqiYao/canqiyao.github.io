@@ -17,7 +17,7 @@ Selected paper
 
 Journal paper
 ------
-1. **C. Yao**, J. Cheng, K. Pan. Data‑Driven Planning for Wireless Charging Lanes, IEEE Transactions on Smart Grid, forthcoming, 2025.
+1. **C. Yao**, J. Cheng, K. Pan. Data‑Driven Planning for Wireless Charging Lanes, IEEE Transactions on Smart Grid, forthcoming, 2025.[[link]](https://ieeexplore.ieee.org/document/10970087)
 2. Z. He, Y. Tian, H Miao, **C. Yao**, and Z. Yang. Electric Vehicle Routing Problem with Capacitated Charging Stations and Dynamic Electricity Prices, IEEE Internet of Things Journal, 2025.[[link]](https://ieeexplore.ieee.org/document/10937191/)
 3. M. Xu, S. Lei, **C. Yao**, W. Wu, C. Ma, C. Wang. Network Topology Flexibility‑Aware Robust Electricity Trading for Distribution System Survivability Enhancement, IEEE Transactions on Smart Grid, 2025.[[link]](https://ieeexplore.ieee.org/document/10922206/)
 4.  **C. Yao**, S. Chen, and Z. Yang, Cooperative Operation of the Fleet Operator and Incentive‑aware Customers in an On‑demand Delivery System: A Bi‑level Approach. IEEE Internet of Things Journal, vol. 11, no. 6, pp. 9668‑9680, Mar. 2024. [[link]](https://ieeexplore.ieee.org/document/10283949)[[Code]](https://github.com/CanqiYao/Cooperative-Operation-of-the-Fleet-Operator-and-Incentive-aware-Customers) 
