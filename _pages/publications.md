@@ -40,5 +40,5 @@ Xiamen, China, 2022, pp. 3117-3122.[[link]](https://ieeexplore.ieee.org/document
 
 Submitted Manuscripts
 ------
-
+1. **C. Yao**, J. Cheng, and K. Pan, C. Wang. Data‑Driven Planning for Hydrogen Refueling Stations, IEEE Transactions on Power Systems, under review.
 
