@@ -53,6 +53,7 @@ I have served as a reviewer for the IEEE Transactions on Smart Grid, IEEE Transa
 * IEEE Systems Journal (ISJ)
 * Transportation Research Part E: Logistics and Transportation Review (TRE)
 * Expert Systems With Applications (ESWA)
+* Scientific Reports
 * Knowledge-Based Systems
 * Energy
 * Peer‑to‑Peer Networking and Applications
