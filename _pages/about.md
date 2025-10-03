@@ -58,6 +58,7 @@ I have served as a reviewer for the IEEE Transactions on Smart Grid, IEEE Transa
 * Energy
 * Peer‑to‑Peer Networking and Applications
 * Optimization and Engineering
+* The Journal of Supercomputing
 * Evolutionary Intelligence
 
 
