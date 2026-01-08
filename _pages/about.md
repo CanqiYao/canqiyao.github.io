@@ -13,7 +13,7 @@ I am a postdoctoral fellow at The Hong Kong Polytechnic University (PolyU) suppo
 
 My research interests include planning and operation of electricfied transportation systems, with an emphasis on the mathematical model and solution methods.
 
-I have served as a reviewer for the IEEE Transactions on Smart Grid, IEEE Transactions on Power Systems, IEEE Transactions on Sustainable Energy, IEEE Transactions on Intelligent Transportation Systems, IEEE Systems Journal, Expert Systems With Applications, Peer-to-Peer Networking and Applications, Optimization and Engineering, and other IEEE conferences.
+I have served as a reviewer for the Omega-The International Journal of Management Science, IEEE Transactions on Smart Grid, IEEE Transactions on Power Systems, IEEE Transactions on Sustainable Energy, IEEE Transactions on Intelligent Transportation Systems, IEEE Systems Journal, Expert Systems With Applications, Peer-to-Peer Networking and Applications, Optimization and Engineering, and other IEEE conferences.
 
 ## Research Interest
 1. Polynomial-time algorithm for the joint routing and charging problem of electric vehicles.
@@ -51,6 +51,7 @@ I have served as a reviewer for the IEEE Transactions on Smart Grid, IEEE Transa
 * IEEE Transactions on Sustainable Energy (TSTE)
 * IEEE Transactions on Intelligent Transportation Systems (TITS)
 * IEEE Systems Journal (ISJ)
+* Omega-The International Journal of Management Science
 * Transportation Research Part E: Logistics and Transportation Review (TRE)
 * Expert Systems With Applications (ESWA)
 * Scientific Reports
