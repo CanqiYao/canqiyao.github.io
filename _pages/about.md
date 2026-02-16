@@ -54,6 +54,7 @@ I have served as a reviewer for the Omega-The International Journal of Managemen
 * Omega-The International Journal of Management Science
 * Transportation Research Part E: Logistics and Transportation Review (TRE)
 * Expert Systems With Applications (ESWA)
+* Energy Systems
 * Scientific Reports
 * Knowledge-Based Systems
 * Applied Energy
