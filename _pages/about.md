@@ -23,6 +23,7 @@ I have served as a reviewer for IEEE Transactions on Smart Grid, IEEE Transactio
 
 
 ## !!!News
+* Apr 14, 2026, a journal paper named "_Data-Driven Planning for the Location and Capacity of Hydrogen Refueling Stations_" is **accepted** by IEEE Transactions on Transportation Electrification.
 * Apr 13, 2025, a journal paper named "_Data-Driven Planning for Wireless Charging Lanes_" is **accepted** by IEEE Transactions on Smart Grid.
 * Aug 8, 2024, invited as the reviewer for _Transportation Research Part E: Logistics and Transportation Review_. 
 * Jun 10, 2024, invited as the reviewer for _Optimization and Engineering_. 
@@ -77,7 +78,7 @@ I have served as a reviewer for IEEE Transactions on Smart Grid, IEEE Transactio
 * Email: vulcanyao@gmail.com; canqi.yao@polyu.edu.hk
 
 
-_Last update: Apr 2025_
+_Last update: Apr 2026_
 
 
 <a href="https://www.easycounter.com/">
