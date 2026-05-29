@@ -6,7 +6,7 @@ author_profile: true
 ---
 Selected paper
 ------
-1. **C. Yao**, J. Cheng, K. Pan, and C. Wang. Data-Driven Planning for the Location and Capacity of Hydrogen Refueling Stations, **IEEE Transactions on Transportation Electrification**, 2026.[[link]](https://ieeexplore.ieee.org/document/11498520)
+1. **C. Yao**, J. Cheng, K. Pan, and C. Wang. Data-Driven Planning for the Location and Capacity of Hydrogen Refueling Stations, **IEEE Transactions on Transportation Electrification**, forthcoming, 2026.[[link]](https://ieeexplore.ieee.org/document/11498520)
 2. **C. Yao**, J. Cheng, and K. Pan. Data‑Driven Planning for Wireless Charging Lanes, **IEEE Transactions on Smart Grid**, vol. 16, no. 4, pp. 3179-3194, July 2025.[[link]](https://ieeexplore.ieee.org/document/10970087)
 3. **C. Yao**, S. Chen, and Z. Yang, Cooperative Operation of the Fleet Operator and Incentive‑aware Customers in an On‑demand Delivery System: A Bi‑level Approach. **IEEE Internet of Things Journal**, vol. 11, no. 6, pp. 9668‑9680, Mar. 2024. [[link]](https://ieeexplore.ieee.org/document/10283949)[[Code]](https://github.com/CanqiYao/Cooperative-Operation-of-the-Fleet-Operator-and-Incentive-aware-Customers)
 4. **C. Yao**, S. Chen, M. Salazar, and Z. Yang, Joint Routing and Charging Problem of Electric Vehicles With Incentive‑Aware Customers Considering Spatio‑Temporal Charging Prices. **IEEE Transactions on Intelligent Transportation Systems**, vol. 24, no. 11, pp. 12215‑12226, Nov. 2023.[[link]](https://ieeexplore.ieee.org/document/10164169)
