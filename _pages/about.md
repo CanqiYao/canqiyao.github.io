@@ -23,6 +23,7 @@ I have served as a reviewer for IEEE Transactions on Smart Grid, IEEE Transactio
 
 
 ## !!!News
+* May 28, 2026, a journal paper named "_Resilient Pricing-Driven Coordination of Coupled Power and Transportation Networks: A Learning-Augmented Mixed-Integer Reformulation Approach_" is **accepted** by Applied Energy.
 * Apr 14, 2026, a journal paper named "_Data-Driven Planning for the Location and Capacity of Hydrogen Refueling Stations_" is **accepted** by IEEE Transactions on Transportation Electrification.
 * Apr 13, 2025, a journal paper named "_Data-Driven Planning for Wireless Charging Lanes_" is **accepted** by IEEE Transactions on Smart Grid.
 * Aug 8, 2024, invited as the reviewer for _Transportation Research Part E: Logistics and Transportation Review_. 
