@@ -57,6 +57,7 @@ I have served as a reviewer for IEEE Transactions on Smart Grid, IEEE Transactio
 * Omega-The International Journal of Management Science
 * Transportation Research Part E: Logistics and Transportation Review (TRE)
 * Expert Systems With Applications (ESWA)
+* Journal of Combinatorial Optimization
 * Energy Systems
 * Scientific Reports
 * Knowledge-Based Systems
