@@ -45,5 +45,4 @@ Xiamen, China, 2022, pp. 3117-3122.[[link]](https://ieeexplore.ieee.org/document
 
 Submitted Manuscripts
 ------
-1. **C. Yao**, J. Cheng, and K. Pan. “Data-Driven Planning for Grid-Connected Advanced Air Mobility Networks, **IEEE Transactions on Smart Grid**, under review.
 
