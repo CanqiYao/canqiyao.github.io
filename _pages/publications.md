@@ -20,8 +20,8 @@ Selected paper
 Journal paper
 ------
 1. **C. Yao**, J. Cheng, and K. Pan. Data-Driven Planning for Grid-Connected Advanced Air Mobility Networks, **IEEE Transactions on Smart Grid**, forthcoming, 2026.
-2. C. Ma, **C. Yao**, H. Hua, and S. Lei. Pricing‑Driven Resilient Coordination of Coupled Power and Transportation Networks: A Learning‑Augmented Mixed‑Integer Reformulation Approach, **Applied Energy**, forthcoming, 2026.
-3. **C. Yao**, J. Cheng, K. Pan, and C. Wang. Data-Driven Planning for the Location and Capacity of Hydrogen Refueling Stations, **IEEE Transactions on Transportation Electrification**, forthcoming, 2026
+2. C. Ma, **C. Yao**, H. Hua, and S. Lei. Pricing‑Driven Resilient Coordination of Coupled Power and Transportation Networks: A Learning‑Augmented Mixed‑Integer Reformulation Approach, **Applied Energy**, forthcoming, 2026.[[link]](https://www.sciencedirect.com/science/article/pii/S030626192600810X?dgcid=coauthor)
+3. **C. Yao**, J. Cheng, K. Pan, and C. Wang. Data-Driven Planning for the Location and Capacity of Hydrogen Refueling Stations, **IEEE Transactions on Transportation Electrification**, forthcoming, 2026.[[link]](https://ieeexplore.ieee.org/document/11498520)
 4. **C. Yao**, J. Cheng, K. Pan. Data‑Driven Planning for Wireless Charging Lanes, **IEEE Transactions on Smart Grid**, vol. 16, no. 4, pp. 3179-3194, July 2025.[[link]](https://ieeexplore.ieee.org/document/10970087)
 5. Z. He, Y. Tian, H Miao, **C. Yao**, and Z. Yang. Electric Vehicle Routing Problem with Capacitated Charging Stations and Dynamic Electricity Prices, **IEEE Internet of Things Journal**, vol. 12, no. 13, pp. 23763-23772, July 2025.[[link]](https://ieeexplore.ieee.org/document/10937191/)
 6. M. Xu, S. Lei, **C. Yao**, W. Wu, C. Ma, C. Wang. Network Topology Flexibility‑Aware Robust Electricity Trading for Distribution System Survivability Enhancement, **IEEE Transactions on Smart Grid**, vol. 16, no. 3, pp. 2504-2517, May 2025.[[link]](https://ieeexplore.ieee.org/document/10922206/)
