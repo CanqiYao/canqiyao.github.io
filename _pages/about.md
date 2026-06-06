@@ -23,6 +23,7 @@ I have served as a reviewer for IEEE Transactions on Smart Grid, IEEE Transactio
 
 
 ## !!!News
+* Jun 6, 2026, a journal paper named "_Data-Driven Planning for Grid-Connected Advanced Air Mobility Networks_" is **accepted** by IEEE Transactions on Smart Grid.
 * May 28, 2026, a journal paper named "_Resilient Pricing-Driven Coordination of Coupled Power and Transportation Networks: A Learning-Augmented Mixed-Integer Reformulation Approach_" is **accepted** by Applied Energy.
 * Apr 14, 2026, a journal paper named "_Data-Driven Planning for the Location and Capacity of Hydrogen Refueling Stations_" is **accepted** by IEEE Transactions on Transportation Electrification.
 * Apr 13, 2025, a journal paper named "_Data-Driven Planning for Wireless Charging Lanes_" is **accepted** by IEEE Transactions on Smart Grid.
@@ -80,7 +81,7 @@ I have served as a reviewer for IEEE Transactions on Smart Grid, IEEE Transactio
 * Email: vulcanyao@gmail.com; canqi.yao@polyu.edu.hk
 
 
-_Last update: Apr 2026_
+_Last update: Jun 2026_
 
 
 <a href="https://www.easycounter.com/">
