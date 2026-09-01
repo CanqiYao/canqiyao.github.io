@@ -23,6 +23,7 @@ I have served as a reviewer for IEEE Transactions on Smart Grid, IEEE Transactio
 
 
 ## !!!News
+* Sep 1, 2026, a journal paper named "_ Learning-Augmented Mixed-Integer Reformulation for Dynamic Traffic and Energy Assignment in Spatio-Temporal V2G Coordination_" is **accepted** by IEEE Transactions on Smart Grid.
 * Jun 6, 2026, a journal paper named "_Data-Driven Planning for Grid-Connected Advanced Air Mobility Networks_" is **accepted** by IEEE Transactions on Smart Grid.
 * May 28, 2026, a journal paper named "_Resilient Pricing-Driven Coordination of Coupled Power and Transportation Networks: A Learning-Augmented Mixed-Integer Reformulation Approach_" is **accepted** by Applied Energy.
 * Apr 14, 2026, a journal paper named "_Data-Driven Planning for the Location and Capacity of Hydrogen Refueling Stations_" is **accepted** by IEEE Transactions on Transportation Electrification.
