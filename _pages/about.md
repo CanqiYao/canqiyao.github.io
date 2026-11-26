@@ -58,6 +58,7 @@ I have served as a reviewer for IEEE Transactions on Smart Grid, IEEE Transactio
 * IEEE Transactions on Industrial Informatics (TII)
 * IEEE Transactions on Industrial Cyber-Physical Systems (TICPS)
 * IEEE Systems Journal (ISJ)
+* Journal of Modern Power Systems and Clean Energy (MPCE)
 * Omega-The International Journal of Management Science
 * Transportation Research Part E: Logistics and Transportation Review (TRE)
 * Expert Systems With Applications (ESWA)
